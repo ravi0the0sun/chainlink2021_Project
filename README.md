@@ -1,5 +1,7 @@
 # Project for Chainlink Hackathon 2021
 
+[Figma Prototype](https://www.figma.com/file/89mO6Qcicx2o9C6yZiJPKr/Chainlinnk-2021-Hackathon-Project?node-id=0%3A1)
+
 ---
 
 #### NOTE
